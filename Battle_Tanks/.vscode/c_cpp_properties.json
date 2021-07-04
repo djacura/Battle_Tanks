@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Battle_TanksEditor Editor Win64 Development (Battle_Tanks)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\djacu\\Desktop\\Software developer course stuff\\Gamedev course\\Battle Tanks\\Battle_Tanks\\.vscode\\compileCommands_Battle_Tanks.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\djacu\\Desktop\\Software developer course stuff\\Gamedev course\\Battle Tanks\\Battle_Tanks\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\\\Users\\\\djacu\\\\Desktop\\\\Software developer course stuff\\\\Gamedev course\\\\Battle Tanks\\\\Battle_Tanks\\\\Source\\\\Battle_Tanks\\\\Battle_Tanks.Build.cs",
+		"command": "cl.exe @\"C:\\Users\\djacu\\Desktop\\Software developer course stuff\\Gamedev course\\Battle Tanks\\Battle_Tanks\\.vscode\\compileCommands_Default\\Battle_Tanks.182.rsp\"",
+		"directory": "D:\\Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\djacu\\\\Desktop\\\\Software developer course stuff\\\\Gamedev course\\\\Battle Tanks\\\\Battle_Tanks\\\\Source\\\\Battle_Tanks\\\\Battle_Tanks.cpp",
+		"command": "cl.exe @\"C:\\Users\\djacu\\Desktop\\Software developer course stuff\\Gamedev course\\Battle Tanks\\Battle_Tanks\\.vscode\\compileCommands_Default\\Battle_Tanks.182.rsp\"",
+		"directory": "D:\\Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\djacu\\\\Desktop\\\\Software developer course stuff\\\\Gamedev course\\\\Battle Tanks\\\\Battle_Tanks\\\\Source\\\\Battle_Tanks\\\\Battle_Tanks.h",
+		"command": "cl.exe @\"C:\\Users\\djacu\\Desktop\\Software developer course stuff\\Gamedev course\\Battle Tanks\\Battle_Tanks\\.vscode\\compileCommands_Default\\Battle_Tanks.182.rsp\"",
+		"directory": "D:\\Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\djacu\\\\Desktop\\\\Software developer course stuff\\\\Gamedev course\\\\Battle Tanks\\\\Battle_Tanks\\\\Source\\\\Battle_Tanks\\\\Battle_TanksGameModeBase.cpp",
+		"command": "cl.exe @\"C:\\Users\\djacu\\Desktop\\Software developer course stuff\\Gamedev course\\Battle Tanks\\Battle_Tanks\\.vscode\\compileCommands_Default\\Battle_Tanks.182.rsp\"",
+		"directory": "D:\\Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\djacu\\\\Desktop\\\\Software developer course stuff\\\\Gamedev course\\\\Battle Tanks\\\\Battle_Tanks\\\\Source\\\\Battle_Tanks\\\\Battle_TanksGameModeBase.h",
+		"command": "cl.exe @\"C:\\Users\\djacu\\Desktop\\Software developer course stuff\\Gamedev course\\Battle Tanks\\Battle_Tanks\\.vscode\\compileCommands_Default\\Battle_Tanks.182.rsp\"",
+		"directory": "D:\\Games\\UE_4.26\\Engine\\Source"
+	}
+]
